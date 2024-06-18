@@ -1,10 +1,9 @@
-import "./App.module.css";
 import { Desktop, ModalsView, ProzillaOS, Taskbar, WindowsView } from "prozilla-os";
 
-function App() {
+export function App() {
 	return <ProzillaOS
 		systemName="ExampleOS"
-		tagLine="Power by ProzillaOS"
+		tagLine="Powered by ProzillaOS"
 	>
 		<Taskbar/>
 		<WindowsView/>
@@ -12,5 +11,3 @@ function App() {
 		<Desktop/>
 	</ProzillaOS>;
 }
-
-export default App;

@@ -1,6 +1,5 @@
 {
-	"name": "example-os",
-	"version": "0.0.0",
+	"name": "prozilla-os-boilerplate",
 	"private": true,
 	"author": {
 		"name": "Prozilla",
@@ -16,7 +15,7 @@
 		"preview": "vite preview"
 	},
 	"dependencies": {
-		"prozilla-os": "^1.0.6",
+		"prozilla-os": "^1.0.10",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0"
 	},
@@ -29,7 +28,6 @@
 		"@vitejs/plugin-react-swc": "^3.7.0",
 		"eslint": "^8.57.0",
 		"eslint-plugin-react": "^7.34.2",
-		"eslint-plugin-react-hooks": "^4.6.0",
 		"eslint-plugin-react-refresh": "^0.4.6",
 		"typescript": "^5.2.2",
 		"typescript-eslint": "^7.13.1",
