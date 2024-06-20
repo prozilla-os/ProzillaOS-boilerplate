@@ -33,23 +33,23 @@ This is an overview of the most important files and folders in this project.
 
 ```
 .
-├── /public  —————————————  Static assets (favicons, images, fonts, ...)
+├── /public  ———————————  Static assets (favicons, images, fonts, ...)
+│
 ├── /src
-│   ├── /components  —————  React components
-│   │   └── App.tsx  —————  App component that renders the ProzillaOS component with optional configs
-│   ├── /config  —————————  Config files for ProzillaOS
-│   ├── /hooks  ——————————  React hooks
-│   ├── /styles
-│   │   └── index.css  ———  Global stylesheet
-│   ├── /types  ——————————  TypeScript types
-│   └── index.tsx  ———————  Main entry point that renders the app
-├── eslint.config.js  ————  Linting configurations
-├── index.html  ——————————  HTML file containing metadata and a link to the main script
-├── package.json  ————————  Project metadata and dependencies
-├── README.md  ———————————  You are here
-├── tsconfig.json  ———————  TypeScript configurations
-└── vite.config.ts  ——————  Vite configurations
-
+│   ├── /components  ———————  React components
+│   │   └── App.tsx  ———————————  App component that renders the ProzillaOS component with optional configs
+│   ├── /config  ———————————  Config files for ProzillaOS
+│   ├── /styles  ———————————  Stylesheets
+│   │   └── index.css  —————————  Global stylesheet
+│   ├── /types  ————————————  TypeScript types
+│   └── index.tsx  —————————  Main entry point that renders the app
+│
+├── eslint.config.js  ——  Linting configurations
+├── index.html  ————————  HTML file containing metadata and a link to the main script
+├── package.json  ——————  Project metadata and dependencies
+├── README.md  —————————  You are here
+├── tsconfig.json  —————  TypeScript configurations
+└── vite.config.ts  ————  Vite configurations
 ```
 
 ## Scripts
