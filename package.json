@@ -14,8 +14,12 @@
 		"lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
 		"preview": "vite preview"
 	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/prozilla-os/ProzillaOS-boilerplate.git"
+	},
 	"dependencies": {
-		"prozilla-os": "^1.0.13",
+		"prozilla-os": "latest",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
 		"react-svg": "^16.1.34"

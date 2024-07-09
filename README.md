@@ -62,11 +62,13 @@ This is an overview of the most important files and folders in this project.
 ## Links
 
 - [Website/demo][website]
+- [Docs][docs]
 - [GitHub][github]
 - [npm][npm]
 - [Ko-fi][ko-fi]
 
 [website]: https://os.prozilla.dev/
+[docs]: https://os.prozilla.dev/docs
 [github]: https://github.com/prozilla-os/ProzillaOS/tree/convert-to-monorepo/packages/prozilla-os
 [npm]: https://www.npmjs.com/package/prozilla-os
 [ko-fi]: https://ko-fi.com/prozilla
