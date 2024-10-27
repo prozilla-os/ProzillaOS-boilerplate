@@ -19,7 +19,7 @@
 		"url": "git+https://github.com/prozilla-os/ProzillaOS-boilerplate.git"
 	},
 	"dependencies": {
-		"prozilla-os": "latest",
+		"prozilla-os": "^1.3.6",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
 		"react-svg": "^16.1.34"
